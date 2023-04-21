@@ -13,16 +13,19 @@ body{
 	background-color: white;
 	  padding: 20px;
 	border-radius:20px;
+	text-align:center;
 }
 .hero-section{
 	display:inline-block;
 	background-color: white;
 	  padding: 20px;
 	border-radius:20px;
+	text-align:center;
 }
 .pictorial-news-section{
 	display:inline-block;
 	background-color: white;
 	  padding: 20px;
 	border-radius:20px;
+	text-align:center;
 }
